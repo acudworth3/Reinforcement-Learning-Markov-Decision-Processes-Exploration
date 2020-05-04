@@ -1,25 +1,21 @@
 Andrew Cudworth
 CS 7641 (Spring 2020)
 Assignment 4 Markov Decision Processes 
+https://www.omscs.gatech.edu/cs-7641-machine-learning
 
+MDP Reinforcement Learning-analysis.pdf contains the analysis of learning models
 
-Code is located at 
-https://github.com/acudworth3/Reinforcement-Learning-Markov-Decision-Processes-Exploration
-
-
-
-heavily used references:
-[4]	LearnDataSci, Brendan Martin Founder of. “Reinforcement Q-Learning from Scratch in Python with OpenAI Gym.” Learn Data Science - Tutorials, Books, Courses, and More, www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/.
-[7]	Waqasqammar. “Waqasqammar/MDP-with-Value-Iteration-and-Policy-Iteration.” GitHub, 22 Sept. 2018, github.com/waqasqammar/MDP-with-Value-Iteration-and-Policy-Iteration/.
-[8]	Xadahiya. “Xadahiya/Toh-Gym.” GitHub, github.com/xadahiya/toh-gym/blob/master/toh_gym/envs/toh_env.py.
-
-
-acudworth3-analysis.pdf contains the analysis
+Primary Topics:
+-Markov Decision Processes
+-Reinforcement Learning
+-Value Iteration
+-Policy Iteration 
+-Q Learning
+-Tower of Hanoi
+-Grid Worlds
 
 All files must be run with working directory set to src
 
-Object structure:
--
 
 FILES:
 algos.py
@@ -56,3 +52,15 @@ QLearningscratch
 Results_plot_script: Figures 21-22, 24-25
 TOH_Plot_results: Figures 23
 VI_Plot_gamma_script: Figures 3-5
+
+
+heavily used references:
+[4]	LearnDataSci, Brendan Martin Founder of. “Reinforcement Q-Learning from Scratch in Python with OpenAI Gym.” Learn Data Science - Tutorials, Books, Courses, and More, www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/.
+[7]	Waqasqammar. “Waqasqammar/MDP-with-Value-Iteration-and-Policy-Iteration.” GitHub, 22 Sept. 2018, github.com/waqasqammar/MDP-with-Value-Iteration-and-Policy-Iteration/.
+[8]	Xadahiya. “Xadahiya/Toh-Gym.” GitHub, github.com/xadahiya/toh-gym/blob/master/toh_gym/envs/toh_env.py.
+
+
+PLAGARISM DISCLAIMER:
+If you are currently enrolled in the class this assignment was written for and copy exploration methods, report contents, or hyperparameters
+without attribution it is plagiarism. Additionally values in the reports and code have been modified to in a manner specific to this 
+repo allowing easy detection of copying.
